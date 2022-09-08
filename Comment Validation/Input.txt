@@ -1,0 +1,7 @@
+Enter the line:
+Compiler Course
+
+Another input>>>
+
+Enter the line:
+//Compiler Course

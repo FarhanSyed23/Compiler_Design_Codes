@@ -1,0 +1,6 @@
+Enter any operator:
+&&
+
+Another Input:
+Enter any operator:
++-

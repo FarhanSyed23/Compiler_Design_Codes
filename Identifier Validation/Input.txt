@@ -1,0 +1,6 @@
+Enter the string:
+Flag
+
+Another Input>>>>>
+Enter the string:
+12fgh

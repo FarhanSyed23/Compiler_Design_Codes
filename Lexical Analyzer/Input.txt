@@ -1,0 +1,2 @@
+Enter the expression for lexical analysis
+(a+b)*5+(b-c)/1+2

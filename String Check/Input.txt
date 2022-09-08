@@ -1,0 +1,7 @@
+Enter a string: aaaa
+
+Another Input>>>>
+Enter a string: aaaaab
+
+Another Input>>>>
+Enter a string: abab
