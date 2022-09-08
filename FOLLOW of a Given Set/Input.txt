@@ -1,7 +1,0 @@
-Enter the no. of productions : 5
-Enter the productions :
-E/TX
-X/+TX/@
-T/FY
-Y/*FY/@
-F/(E)/id
